@@ -62,7 +62,7 @@ function utf16to8(str) {
   }
   return out;
 }
-
+//
   </script>
   </body>
 </html>
