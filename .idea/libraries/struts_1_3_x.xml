@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="struts-1.3.x">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/commons-chain.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/antlr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/commons-fileupload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/struts-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/commons-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fiestweb/lib/oro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
